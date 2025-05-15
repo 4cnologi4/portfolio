@@ -1,4 +1,3 @@
-import { Button } from "@/components/ui/button";
 import Link from "next/link";
 import { FaLinkedin, FaGithub, FaWhatsapp } from "react-icons/fa";
 import { SiCredly } from "react-icons/si";

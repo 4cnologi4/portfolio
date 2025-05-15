@@ -9,6 +9,7 @@ const config = {
   theme: {
     extend: {
       fontFamily: {
+        roboto: ["Roboto", "sans-serif"],
         sans: "var(--font-sans)",
       },
       borderRadius: {
