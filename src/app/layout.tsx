@@ -3,7 +3,7 @@ import { ThemeProvider } from "@/components/theme-provider"
 
 
 export const metadata = {
-  title: "My Portfolio",
+  title: "Daniel Portfolio",
   description: "A showcase of my work and skills",
 }
 
