@@ -5,6 +5,7 @@ import AboutMe from "@/components/AboutMe"
 import Certifications from "@/components/Certifications"
 import Contact from "@/components/Contact"
 import TechnologiesCarousel from "@/components/TechnologiesCarousel"
+import WorkHistory from "@/components/WorkHistory"
 
 const projects = [
   {
@@ -41,6 +42,9 @@ export default function Home() {
         <h2 className="text-3xl font-semibold mb-8">Skills</h2>
         <TechnologiesCarousel />
       </section>
+
+      {/* Work History */}
+      <WorkHistory />
 
       {/* Projects Section */}
       <section id="projects" className="py-16 px-4">
