@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-![Portfolio Screenshot](assets/portfolio.png)
+![Portfolio Screenshot](https://portfolio-lovat-seven-79.vercel.app/assets/portfolio.png)
 
 ## Technologies Used
 
